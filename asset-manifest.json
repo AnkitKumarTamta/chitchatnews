@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chitchatnews/static/css/main.073c9b0a.css",
+    "main.js": "/chitchatnews/static/js/main.19128300.js",
+    "static/js/787.d213a8a8.chunk.js": "/chitchatnews/static/js/787.d213a8a8.chunk.js",
+    "index.html": "/chitchatnews/index.html",
+    "main.073c9b0a.css.map": "/chitchatnews/static/css/main.073c9b0a.css.map",
+    "main.19128300.js.map": "/chitchatnews/static/js/main.19128300.js.map",
+    "787.d213a8a8.chunk.js.map": "/chitchatnews/static/js/787.d213a8a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19128300.js"
+  ]
+}
